@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 - 🌱 I’m currently learning Data Science and Data Analytics
 
-- 👨‍💻 All of my projects are available at [troopl.com/lucaspicot](troopl.com/lucaspicot)
+- 👨‍💻 All of my projects are available at [https://troopl.com/lucaspicot](https://troopl.com/lucaspicot)
 
 - 📫 How to reach me **lucas.picot@gmail.com**
 
